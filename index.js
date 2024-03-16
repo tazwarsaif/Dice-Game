@@ -22,4 +22,4 @@ button2.onclick = function(){
     label2.textContent = randomnum2; 
 }
 
-winner.textContent = Math.max(randomnum1,randomnum2);
+
